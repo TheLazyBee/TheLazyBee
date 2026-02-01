@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vibo (Vahab Afsharian)  👋</h1>
+<h1 align="center">Hi, I'm Vahab  👋</h1>
 
 <p align="center">
     <b>Web Developer • ICT Student at <a href="https://www.jamk.fi/en" target="_blank">Jyväskylä University of Applied Sciences</a></b><br>
