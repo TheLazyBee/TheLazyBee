@@ -79,7 +79,7 @@ I focus on writing clean code and delivering great user experiences. Every proje
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=viboverse&theme=algolia" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=TheLazyBee&theme=algolia" alt="GitHub Streak" />
 </p>
 
 
